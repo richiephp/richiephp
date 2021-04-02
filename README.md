@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richiephp
-- 👀 I’m interested in ...javascript, jquery, css, sass, html, php
-- 🌱 I’m currently learning ...javascript, jquery, css, sass, html, php
+- 👀 I’m interested in ...javascript, jquery, react, css, sass, html, php
+- 🌱 I’m currently learning ...javascript, jquery, react, css, sass, html, php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
